@@ -1,3 +1,3 @@
-# GitHub CopilotWorkshop [Japanese]
+# example claat
 
-GitHub Copilot のワークショップです
+its an example
