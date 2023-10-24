@@ -3,7 +3,6 @@ Summary: Demo of claat
 Id: docs
 Environments: Web
 Status: Published
-Feedback Link: <https://github.com/gitstua/claat-demo>
 
 # Example
 
