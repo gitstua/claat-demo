@@ -21,7 +21,8 @@ jobs:
       - name: Install claat
         run: go install github.com/googlecodelabs/tools/claat@latest
       - name: Generate lab contents
-        run:  $HOME/go/bin/claat export example.md
+        run:  $HOME/go/bin/claat export -f ./template.html example.md
+
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
